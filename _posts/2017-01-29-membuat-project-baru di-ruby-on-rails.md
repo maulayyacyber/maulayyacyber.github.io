@@ -31,4 +31,3 @@ jika kamu ingin pakai database mysql, kamu bisa pakai perintah berikut ini :
 # terminal
 rails new blog -d mysql
 ~~~
-
