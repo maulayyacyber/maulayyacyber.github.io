@@ -16,10 +16,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: MAULAYYACYBER - Web Developer
+title: MAULAYYACYBER
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Web Developer
 
 # --- Navigation bar options --- #
 
@@ -47,7 +47,7 @@ avatar: "/img/avatar-icon.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Copyright ©
+  name: Fika Ridaul Maulayya
   email: "ridaulmaulayya@gmail.com"
   facebook: fikaridaulmaulayya  # eg. daattali
   github: maulayyacyber    # eg. daattali
